@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+.tmp/
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+inbox/
+
+.DS_Store
