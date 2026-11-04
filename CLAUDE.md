@@ -25,6 +25,7 @@ This folder is the company's knowledge base and automation workspace.
 | `knowledge/roadmap.md` | Every process, ranked, plus the 12-18 month plan |
 | `directives/` | SOPs for workflows Claude runs. See `directives/README.md` |
 | `execution/` | Scripts those workflows call. See `execution/README.md` |
+| `WORKLOG.md` | What was done, by whom, what's waiting. Read before starting, add to when done |
 
 ## Rules
 
@@ -34,4 +35,5 @@ This folder is the company's knowledge base and automation workspace.
 - **Repeatable work becomes a script.** If a task needs the same steps and the same output every time, write a script in `execution/` and an SOP in `directives/` instead of doing it by hand in chat.
 - **Secrets stay in `.env`.** Never write API keys, passwords, or card or bank details into any other file.
 - **Customer personal data stays in the system it lives in.** Don't copy it into `knowledge/`. Look it up when needed.
+- **Read the work log first, leave a note last.** Before starting, read the last few entries in `WORKLOG.md` so you don't redo or contradict earlier work. When you finish, add a short dated entry: what changed, what's waiting, and on whom.
 - **Learn out loud.** When something breaks or I correct you, fix it, then update the relevant file here so it doesn't happen again.
