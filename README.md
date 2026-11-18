@@ -4,8 +4,7 @@ A folder on your computer that Claude Code works inside. Your business is writte
 it, your repeatable processes are saved in it, and Claude reads all of it before it
 answers. Close the chat, open a new one tomorrow, and it still knows how you quote a job.
 
-From the video: How to Use Claude Code to Run a Business (Even If You Don't Write Code)
-(link added when it's live)
+From the video: [How to Use Claude Code to Run a Business (Even If You Don't Write Code)](https://www.youtube.com/watch?v=dlwOcLgF4fU)
 
 ## The four ideas
 
